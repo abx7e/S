@@ -1,1 +1,1 @@
-worker: python3 -m BlThon
+worker: python3 -m ab
