@@ -1,1 +1,1 @@
-worker: python3 -m BlackThon
+worker: python3 -m BlThon
