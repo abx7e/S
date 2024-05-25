@@ -12,7 +12,7 @@ from telethon.tl.types import (ChannelParticipantsAdmins,
                                        MessageMediaPhoto)
 from BlackThonUB.utils import admin_cmd
 from ..Config import Config
-from BlackThonUB import CMD_HELP, BlackThon
+from BlackThonUB import CMD_HELP
 up_admin = Config.UP_ET or "ارفع"
 down_admin = Config.DOWN_ET or "تزل"
 async def get_full_user(event):  
