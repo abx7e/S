@@ -3,7 +3,7 @@ from datetime import datetime
 
 from telethon.errors import BadRequestError, FloodWaitError, ForbiddenError
 
-from BlackThon import BlThon
+from BlackThon import *
 
 from ..Config import Config
 from ..core.logger import logging
