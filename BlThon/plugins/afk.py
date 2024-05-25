@@ -3,7 +3,7 @@ from datetime import datetime
 from BlackThon import languages
 from telethon.tl import functions, types
 from BlackThonUB.helpers.functions.functions import translate 
-from BlackThonUB import CMD_HELP, BlThon
+from BlackThonUB import CMD_HELP
 
 from ..Config import Config
 from ..core.logger import logging
