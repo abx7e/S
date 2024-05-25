@@ -5,7 +5,7 @@ from ..Config import Config
 from BlackThonUB.utils import admin_cmd
 
 import asyncio
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from random import choice
 
 from ..core.managers import edit_or_reply
