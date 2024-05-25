@@ -4,7 +4,7 @@ import re
 
 from telethon.events import CallbackQuery
 
-from BlackThon import BlThon
+from BlackThon import *
 
 
 @BlThon.tgbot.on(CallbackQuery(data=re.compile(b"rzan_(.*)")))
