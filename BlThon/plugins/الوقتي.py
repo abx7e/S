@@ -18,11 +18,11 @@ from BlackThonUB import BOTLOG_CHATID
 from ..Config import Config
 from ..helpers.utils import _format
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
-from . import AUTONAME, DEFAULT_GROUP, DEFAULT_BIO, edit_delete, BlThon, logging
+from . import AUTONAME, DEFAULT_GROUP, DEFAULT_BIO, edit_delete, logging
 from colour import Color
 
 plugin_category = "tools"
-# لتخمط ابن الكحبة
+
 DEFAULTUSERBIO = DEFAULT_BIO or "﴿ لا تَحزَن إِنَّ اللَّهَ مَعَنا ﴾ "
 DEFAULTUSERGRO = DEFAULT_GROUP or ""
 DEFAULTUSER = AUTONAME or ""
