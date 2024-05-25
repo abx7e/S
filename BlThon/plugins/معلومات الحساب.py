@@ -5,7 +5,7 @@ from telethon.tl.custom import Dialog
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from telethon.tl.types import Channel, Chat, User
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..core.managers import edit_delete, edit_or_reply
 
