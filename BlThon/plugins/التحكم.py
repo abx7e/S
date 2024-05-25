@@ -3,7 +3,7 @@ from datetime import datetime
 import textwrap
 from telethon.utils import get_display_name
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from BlackThonUB.core.logger import logging
 
 from ..Config import Config
