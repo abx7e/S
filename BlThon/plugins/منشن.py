@@ -1,4 +1,4 @@
-from BlackThonUB import BlThon
+from BlackThonUB import *
 import asyncio
 import time
 from ..core.managers import edit_or_reply
