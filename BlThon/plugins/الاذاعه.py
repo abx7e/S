@@ -5,7 +5,7 @@ import os
 from telethon import events
 from telethon.tl.functions.channels import EditAdminRequest
 from telethon.tl.types import ChatAdminRights
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 
 from ..core.managers import edit_or_reply
