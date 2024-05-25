@@ -1,5 +1,5 @@
 from BlackThonUB import *
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from BlackThonUB.utils import admin_cmd
 from telethon.tl.types import Channel, Chat, User
 from telethon.tl import functions, types
