@@ -3,7 +3,7 @@
 import telethon.password as pwd_mod
 from telethon.tl import functions
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..Config import Config
 
