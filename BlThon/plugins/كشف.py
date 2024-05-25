@@ -7,7 +7,7 @@ from telethon.tl.functions.users import GetFullUserRequest
 from telethon.utils import get_input_location
 from ..sql_helper.globals import gvarstatus
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from BlackThonUB.core.logger import logging
 
 from ..Config import Config
