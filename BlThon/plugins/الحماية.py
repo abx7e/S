@@ -6,7 +6,7 @@ from telethon import Button, functions
 from telethon.events import CallbackQuery
 from telethon.utils import get_display_name
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from BlackThonUB.core.logger import logging
 
 from ..Config import Config
