@@ -7,10 +7,10 @@ from telethon.tl.functions.photos import GetUserPhotosRequest
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon.utils import get_input_location
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..Config import Config
-from BlThon.razan.resources.strings import *
+from BlThon.zezo.resources.strings import *
 from ..core.managers import edit_or_reply
 from ..helpers import get_user_from_event, reply_id
 from . import spamwatch
