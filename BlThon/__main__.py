@@ -1,6 +1,5 @@
 import sys
 import contextlib
-import BlackThonUB
 from BlackThonUB import BOTLOG_CHATID, HEROKU_APP, PM_LOGGER_GROUP_ID
 from .Config import Config
 from .core.logger import logging
