@@ -5,10 +5,10 @@ import random, re
 from BlackThonUB.utils import admin_cmd
 
 import asyncio
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..core.managers import edit_or_reply
-from BlThon.razan.resources.strings import *
+from BlThon.zezo.resources.strings import *
 
 plugin_category = "extra" 
 
