@@ -1,5 +1,5 @@
 
-from BlackThon import bot, BlThon
+from BlackThon import bot
 #By Source BlackThon @abs7e
 from telethon import events, functions, types, Button
 from datetime import timedelta
