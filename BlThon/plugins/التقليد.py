@@ -9,7 +9,6 @@ from ..sql_helper.echo_sql import (
     remove_echos,
 )
 from . import (
-    BlThon,
     edit_delete,
     get_user_from_event,
 )
