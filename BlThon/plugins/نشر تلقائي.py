@@ -5,7 +5,7 @@ from telethon.errors.rpcerrorlist import UserNotParticipantError
 from telethon.tl.functions.messages import ExportChatInviteRequest
 from telethon.tl.functions.users import GetFullUserRequest
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..Config import Config
 from ..core.managers import edit_delete, edit_or_reply
