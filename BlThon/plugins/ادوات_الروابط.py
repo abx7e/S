@@ -1,6 +1,6 @@
 import requests
 from validators.url import url
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..core.managers import edit_delete, edit_or_reply
 
