@@ -15,7 +15,7 @@ from telethon.errors.rpcerrorlist import (
 )
 from telethon.events import CallbackQuery
 
-from BlackThonUB import StartTime, BlThon, JEPVERSION
+from BlackThonUB import StartTime, JEPVERSION
 from ..Config import Config
 from ..core.managers import edit_or_reply
 from ..helpers.functions import catalive, check_data_base_heal_th, get_readable_time
