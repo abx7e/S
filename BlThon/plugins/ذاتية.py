@@ -1,4 +1,4 @@
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
 import os
 import datetime
