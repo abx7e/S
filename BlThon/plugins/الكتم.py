@@ -8,7 +8,7 @@ from telethon.tl.functions.users import GetFullUserRequest
 from telethon.tl.types import ChatBannedRights
 from telethon.utils import get_display_name
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..core.managers import edit_delete, edit_or_reply
 from ..helpers.utils import _format
