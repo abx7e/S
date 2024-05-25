@@ -4,8 +4,8 @@ from telethon import Button, events
 from telethon.events import CallbackQuery
 
 from BlThon.razan.resources.assistant import *
-from BlThon.razan.resources.mybot import *
-from BlackThonUB import BlThon
+from BlThon.zezo.resources.mybot import *
+from BlackThonUB import *
 from ..core import check_owner
 from ..Config import Config
 
