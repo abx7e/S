@@ -20,7 +20,7 @@ from telethon.tl.types import (
     MessageMediaPhoto,
 )
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..core.logger import logging
 from ..core.managers import edit_delete, edit_or_reply
