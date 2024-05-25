@@ -1,5 +1,5 @@
 from telethon import events
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
 from ..core.managers import edit_delete
 from telethon import functions
