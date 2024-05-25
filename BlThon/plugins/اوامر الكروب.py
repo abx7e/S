@@ -37,7 +37,7 @@ from telethon.tl.types import (
     InputPeerChat,
     MessageEntityCustomEmoji,
 )
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
 from datetime import datetime
 from telethon.tl.functions.channels import GetParticipantRequest
