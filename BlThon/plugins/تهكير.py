@@ -1,6 +1,6 @@
 import asyncio
 from telethon import events
-from BlackThonUB import BlThon
+from BlackThonUB import *
 import random
 from ..core.managers import edit_or_reply
 from ..helpers.utils import _format
