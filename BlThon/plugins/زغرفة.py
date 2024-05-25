@@ -1,6 +1,6 @@
 import random
 
-from BlackThonUB import BlThon
+from BlackThonUB import *
 
 from ..core.managers import edit_or_reply
 from . import fonts
