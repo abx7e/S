@@ -1,7 +1,7 @@
 from urlextract import URLExtract
 import re
 import requests
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from BlackThonUB.core.logger import logging
 from ..Config import Config
 from ..core.managers import edit_delete, edit_or_reply
