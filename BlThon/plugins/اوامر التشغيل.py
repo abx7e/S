@@ -5,7 +5,7 @@ import re
 from asyncio.exceptions import CancelledError
 from time import sleep
 import asyncio
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from telethon import events
 from ..core.logger import logging
 from ..core.managers import edit_or_reply
