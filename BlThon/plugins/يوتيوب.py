@@ -14,7 +14,7 @@ from telethon.utils import get_attributes
 from youtube_dl import YoutubeDL
 from urlextract import URLExtract
 from wget import download
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from youtube_dl.utils import (
     ContentTooShortError,
     DownloadError,
