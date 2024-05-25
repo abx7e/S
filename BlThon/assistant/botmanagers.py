@@ -3,7 +3,7 @@ from math import floor
 
 from telethon.utils import get_display_name
 
-from BlackThon import BlThon
+from BlackThon import *
 
 from ..Config import Config
 from ..core.logger import logging
