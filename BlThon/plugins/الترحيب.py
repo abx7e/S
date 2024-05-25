@@ -1,7 +1,7 @@
 from telethon import events
 from telethon.utils import get_display_name
 import datetime
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from BlackThonUB.core.logger import logging
 
 from ..core.managers import edit_delete, edit_or_reply
