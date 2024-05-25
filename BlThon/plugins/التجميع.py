@@ -5,7 +5,7 @@
 
 import asyncio
 import time
-from BlackThonUB import BlThon
+from BlackThonUB import *
 from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.functions.channels import JoinChannelRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
